@@ -1,0 +1,7 @@
+
+set-alias installutil $env:windir\Microsoft.NET\Framework64\v4.0.30319\installutil
+installutil E:\VisualStudioProjects\QV.Next\QlikSensePS\bin\Debug\QlikSensePS.dll
+get-PSsnapin -registered
+add-pssnapin QlikSensePSSnapIn
+
+QS-get-Task -serverurl https://localhost

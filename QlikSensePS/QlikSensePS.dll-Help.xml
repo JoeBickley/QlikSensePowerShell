@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<helpItems xmlns="http://msh" schema="maml">
+	<command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10">
+		<command:details>
+			<command:name>
+				Get-Task
+			</command:name>
+			<maml:description>
+				<maml:para>Searches tasks in Qlik Sense for a given search string</maml:para>
+			</maml:description>
+			<maml:copyright>
+				<maml:para>Copyright JBC@QLIK.com</maml:para>
+			</maml:copyright>
+			<command:verb>Get</command:verb>
+			<command:noun>Task</command:noun>
+		</command:details>
+		<maml:description>
+			<maml:para>
+        The Get-Task cmdlet searches for task(s) in Qlik Sense
+
+        You will need to specify 1 parameter to the command for it to work: ServerURL
+        You can specify 1 optional parameter to the command: Search Term
+      </maml:para>
+		</maml:description>
+	</command:command>
+</helpItems>

@@ -1,0 +1,13 @@
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\obj\Debug\QlikSensePS.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\bin\Debug\QlikSensePS.dll-Help.xml
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\bin\Debug\QlikSensePS.dll
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\bin\Debug\QlikSensePS.pdb
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\bin\Debug\Newtonsoft.Json.dll
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\obj\Debug\QlikSensePS.dll
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\obj\Debug\QlikSensePS.pdb
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\QlikSensePS\bin\Debug\QlikSensePS.dll-Help.xml
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\QlikSensePS\bin\Debug\QlikSensePS.dll
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\QlikSensePS\bin\Debug\QlikSensePS.pdb
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\QlikSensePS\obj\Debug\QlikSensePS.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\QlikSensePS\obj\Debug\QlikSensePS.dll
+\\psf\Home\Documents\VisualStudioProjects\Qlik Sense\QlikSensePS\QlikSensePS\obj\Debug\QlikSensePS.pdb
